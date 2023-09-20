@@ -10,7 +10,7 @@ void signedint(int signednum)
 {
 	if (signednum == SIGINT)
 	{
-		write(2, "\n#(('#'))->$ ", 14);
+		write(2, "\n#((ಠ_ಠ))->$ ", 14);
 	}
 }
 
